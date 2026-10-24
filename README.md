@@ -2,7 +2,7 @@
 ### [[Project]](https://logosintelligencelab.github.io/ref-gaussian) [[Paper]](https://arxiv.org/abs/2412.19282)
 
 > [**Reflective Gaussian Splatting**](https://arxiv.org/abs/2412.19282),            
-> [Yuxuan Yao](https://yaoyuxuanyyds.github.io/), Zixuan Zeng, [Chun Gu](https://sulvxiangxin.github.io/), [Xiatian Zhu](https://surrey-uplab.github.io/), [Li Zhang](https://lzrobots.github.io)  
+> Yuxuan Yao, Zixuan Zeng, [Chun Gu](https://sulvxiangxin.github.io/), [Xiatian Zhu](https://surrey-uplab.github.io/), [Li Zhang](https://lzrobots.github.io)  
 > **ICLR 2025**
 
 **Official implementation of "Reflective Gaussian Splatting".** 
